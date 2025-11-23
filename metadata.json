@@ -1,0 +1,5 @@
+{
+  "name": "AeroFlock - AI Boid Simulation",
+  "description": "A high-performance 2D/3D flocking simulation visualizing complex group behaviors with adjustable parameters and AI-powered analysis.",
+  "requestFramePermissions": []
+}
